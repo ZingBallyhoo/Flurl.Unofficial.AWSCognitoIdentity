@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.3.12.16" />
+      <PackageReference Include="AWSSDK.Extensions.CognitoAuthentication" Version="0.9.4" />
+      <PackageReference Include="Flurl" Version="2.8.1" />
+      <PackageReference Include="Flurl.Http" Version="2.4.1" />
+    </ItemGroup>
+
+</Project>
