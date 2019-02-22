@@ -1,5 +1,8 @@
 # Flurl.Unofficial.AWSCognitoIdentity
-A small helper to authenticate Flurl requests for AWS Cognito Identity
+
+[![NuGet](https://img.shields.io/nuget/v/Flurl.Unofficial.AWSCognitoIdentity.svg?maxAge=86400)](https://www.nuget.org/packages/Flurl.Unofficial.AWSCognitoIdentity/)
+
+A small helper to authenticate [Flurl](https://github.com/tmenier/Flurl) requests for AWS Cognito Identity
 
 ## How to login:
 
