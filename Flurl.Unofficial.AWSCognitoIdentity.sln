@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flurl.Unofficial.AWSCognitoIdentification", "Flurl.Unofficial.AWSCognitoIdentification.csproj", "{125AF26F-D9E0-4343-B4B2-BECD73D12BDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flurl.Unofficial.AWSCognitoIdentification", "Flurl.Unofficial.AWSCognitoIdentity\Flurl.Unofficial.AWSCognitoIdentity.csproj", "{125AF26F-D9E0-4343-B4B2-BECD73D12BDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
