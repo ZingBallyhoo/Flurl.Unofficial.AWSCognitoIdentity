@@ -1,7 +1,22 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <TargetFrameworks>net471;netstandard2.0;netcoreapp2.1</TargetFrameworks>
+    </PropertyGroup>
+	
+	<PropertyGroup>
+      <Version>1.0.1</Version>
+      <FileVersion>1.0.1</FileVersion>
+      <Authors>ZingBallyhoo</Authors>
+      <Description>A small helper to authenticate Flurl requests for AWS Cognito Identity</Description>
+      <Copyright>Copyright (c) 2019 ZingBallyhoo</Copyright>
+	  
+      <PackageId>Flurl.Unofficial.AWSCognitoIdentity</PackageId>
+      <PackageVersion>1.0.1</PackageVersion>
+      <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+      <PackageTags>http flurl aws cognito cognitoidentity</PackageTags>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <PackageProjectUrl>https://github.com/ZingBallyhoo/Flurl.Unofficial.AWSCognitoIdentity</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
