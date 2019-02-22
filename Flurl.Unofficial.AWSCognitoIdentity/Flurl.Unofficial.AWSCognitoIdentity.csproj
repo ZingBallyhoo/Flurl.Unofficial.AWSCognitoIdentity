@@ -5,14 +5,14 @@
     </PropertyGroup>
 	
 	<PropertyGroup>
-      <Version>1.0.1</Version>
-      <FileVersion>1.0.1</FileVersion>
+      <Version>1.0.1.1</Version>
+      <FileVersion>1.0.1.1</FileVersion>
       <Authors>ZingBallyhoo</Authors>
       <Description>A small helper to authenticate Flurl requests for AWS Cognito Identity</Description>
       <Copyright>Copyright (c) 2019 ZingBallyhoo</Copyright>
 	  
       <PackageId>Flurl.Unofficial.AWSCognitoIdentity</PackageId>
-      <PackageVersion>1.0.1</PackageVersion>
+      <PackageVersion>1.0.1.1</PackageVersion>
       <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
       <PackageTags>http flurl aws cognito cognitoidentity</PackageTags>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>

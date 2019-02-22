@@ -8,7 +8,7 @@ using Amazon.Runtime.Internal;
 using Amazon.Runtime.Internal.Auth;
 using Flurl.Http;
 
-namespace Flurl.Unofficial.AWSCognitoIdentification {
+namespace Flurl.Unofficial.AWSCognitoIdentity {
     /// <summary>
     /// AWS Cognito Identification Authenticator
     /// </summary>

@@ -1,6 +1,6 @@
 using Flurl.Http;
 
-namespace Flurl.Unofficial.AWSCognitoIdentification {
+namespace Flurl.Unofficial.AWSCognitoIdentity {
     public static class Extensions {
         /// <summary>
         /// Lazily authenticate an <see cref="IFlurlRequest"/> with AWS Cognito
