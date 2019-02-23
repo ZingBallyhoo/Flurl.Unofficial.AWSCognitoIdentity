@@ -27,7 +27,7 @@ A small helper to authenticate [Flurl](https://github.com/tmenier/Flurl) request
 
 ## Notes:
 * Only async
-* [Spoofs user agent string](https://github.com/ZingBallyhoo/Flurl.Unofficial.AWSCognitoIdentity/blob/master/CognitoAuthClient.cs#L23)
+* [Spoofs user agent string](https://github.com/ZingBallyhoo/Flurl.Unofficial.AWSCognitoIdentity/blob/master/Flurl.Unofficial.AWSCognitoIdentity/CognitoAuthClient.cs#L23)
 
 ## Dependencies:
 * [Flurl 2.8.1](https://www.nuget.org/packages/Flurl/)
